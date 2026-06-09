@@ -2,15 +2,9 @@
 
 # Hey, I'm Ayush Goyal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="👋">
 
-**Full-Stack Developer • Open Source Enthusiast • Lifelong Learner**
+**Web Developer • ML Enthusiast • GSSoC'26**
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects+⚡;Exploring+AI+%26+Machine+Learning+🤖;Contributing+to+Open+Source+🌟;Turning+ideas+into+code+🚀)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ayush2496&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Ayush2496?label=FOLLOWERS&style=flat-square&color=58A6FF)](https://github.com/Ayush2496)
-[![GitHub User's stars](https://img.shields.io/github/stars/Ayush2496?label=STARS&style=flat-square&color=58A6FF)](https://github.com/Ayush2496)
 
 </div>
 
@@ -49,8 +43,10 @@
 
 **Tools**
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -81,12 +77,6 @@
 ### 🔥 Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ayush2496&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
----
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ayush2496&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
