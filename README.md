@@ -1,10 +1,10 @@
 <div align="center">
 
-# Hey, I'm Ayush Goyal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="👋">
+# Hi, I'm Ayush Goyal <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" alt="👋">
 
-**Full-Stack Developer • ML Enthusiast • GSSoC'26**
+**Web Developer • ML Enthusiast • GSSoC'26**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects+⚡;Exploring+AI+%26+Machine+Learning+🤖;Contributing+to+Open+Source+🌟;Turning+ideas+into+code+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Exploring+AI+%26+Machine+Learning;Contributing+to+Open+Source;Turning+ideas+into+code+)](https://git.io/typing-svg)
 
 </div>
 
@@ -53,7 +53,9 @@
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ayushgoyal24)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Ayush2496)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ayushgoyal24906@gmail.com)
+
 
 ---
 
