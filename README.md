@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Open Source projects and Full-Stack Development**
-- 🌱 Learning more about **Machine Learning, System Design, and Modern Web Technologies**
+- 🌱 Learning more about **DSA, Machine Learning, and Modern Web Technologies**
 - 👯 Open to collaborating on **Open Source, Web Development, and AI projects**
 - 💬 Ask me about **C++, Python, DSA, Git/GitHub, and Open Source**
 - ⚡ Fun fact: I love turning ideas into real-world projects
