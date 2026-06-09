@@ -63,7 +63,7 @@
 
 ### 🧾 GitHub Stats
 
-![Ayush's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Ayush2496&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Ayush's GitHub Stats](https://github-readme-stats.anuraghazra1.vercel.app/api?username=Ayush2496&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
 
 ---
 
