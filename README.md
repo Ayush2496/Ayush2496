@@ -50,6 +50,25 @@
 
 ---
 
+## 🏅 GSSoC'26 Badges
+
+<div align="center">
+
+<img src="./New folder/gssoc-badge-first_steps.png" width="105px" alt="First Steps" />
+<img src="./New folder/gssoc-badge-profile_complete.png" width="105px" alt="Profile Complete" />
+<img src="./New folder/gssoc-badge-discord_verified.png" width="105px" alt="Discord Verified" />
+<img src="./New folder/gssoc-badge-role_contributor.png" width="105px" alt="Role Contributor" />
+<img src="./New folder/gssoc-badge-week_one.png" width="105px" alt="Week One" />
+<img src="./New folder/gssoc-badge-point_scorer.png" width="105px" alt="Point Scorer" />
+<img src="./New folder/gssoc-badge-rising_star.png" width="105px" alt="Rising Star" />
+<img src="./New folder/gssoc-badge-bounty_hunter.png" width="105px" alt="Bounty Hunter" />
+<img src="./New folder/gssoc-badge-bounty_master.png" width="105px" alt="Bounty Master" />
+<img src="./New folder/gssoc-badge-power_contributor.png" width="105px" alt="Power Contributor" />
+
+</div>
+
+---
+
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ayushgoyal24)
