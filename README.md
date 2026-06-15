@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 🔭 Currently working on **Open Source projects and Full-Stack Development**
-- 🌱 Learning more about **DSA, Machine Learning, and Modern Web Technologies**
+- 🌱 Learning more about **Machine Learning, System Design, and Modern Web Technologies**
 - 👯 Open to collaborating on **Open Source, Web Development, and AI projects**
 - 💬 Ask me about **C++, Python, DSA, Git/GitHub, and Open Source**
 - ⚡ Fun fact: I love turning ideas into real-world projects
@@ -54,16 +54,16 @@
 
 <div align="center">
 
+<img src="./New folder/gssoc-badge-power_contributor.png" width="105px" alt="Power Contributor" />
+<img src="./New folder/gssoc-badge-week_one.png" width="105px" alt="Week One" />
+<img src="./New folder/gssoc-badge-rising_star.png" width="105px" alt="Rising Star" />
+<img src="./New folder/gssoc-badge-point_scorer.png" width="105px" alt="Point Scorer" />
 <img src="./New folder/gssoc-badge-first_steps.png" width="105px" alt="First Steps" />
+<img src="./New folder/gssoc-badge-role_contributor.png" width="105px" alt="Role Contributor" />
+<img src="./New folder/gssoc-badge-bounty_master.png" width="105px" alt="Bounty Master" />
+<img src="./New folder/gssoc-badge-bounty_hunter.png" width="105px" alt="Bounty Hunter" />
 <img src="./New folder/gssoc-badge-profile_complete.png" width="105px" alt="Profile Complete" />
 <img src="./New folder/gssoc-badge-discord_verified.png" width="105px" alt="Discord Verified" />
-<img src="./New folder/gssoc-badge-role_contributor.png" width="105px" alt="Role Contributor" />
-<img src="./New folder/gssoc-badge-week_one.png" width="105px" alt="Week One" />
-<img src="./New folder/gssoc-badge-point_scorer.png" width="105px" alt="Point Scorer" />
-<img src="./New folder/gssoc-badge-rising_star.png" width="105px" alt="Rising Star" />
-<img src="./New folder/gssoc-badge-bounty_hunter.png" width="105px" alt="Bounty Hunter" />
-<img src="./New folder/gssoc-badge-bounty_master.png" width="105px" alt="Bounty Master" />
-<img src="./New folder/gssoc-badge-power_contributor.png" width="105px" alt="Power Contributor" />
 
 </div>
 
@@ -74,7 +74,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ayushgoyal24)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Ayush2496)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:ayushgoyal24906@gmail.com)
-
 
 ---
 
@@ -88,13 +87,13 @@
 
 ---
 
-### 🗣️ Top Languages
+### Top Languages
 
 ![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Ayush2496&theme=tokyonight&hide_border=true&layout=compact&langs_count=8)
 
 ---
 
-### 🔥 Streak Stats
+### 🔥Streak Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Ayush2496&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -105,5 +104,3 @@
 [![Ayush's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush2496&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
