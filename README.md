@@ -58,6 +58,7 @@
 <img src="./New folder/gssoc-badge-week_one.png" width="115px" alt="Week One" />
 <img src="./New folder/gssoc-badge-rising_star.png" width="115px" alt="Rising Star" />
 <img src="./New folder/gssoc-badge-point_scorer.png" width="115px" alt="Point Scorer" />
+<br>
 <img src="./New folder/gssoc-badge-first_steps.png" width="105px" alt="First Steps" />
 <img src="./New folder/gssoc-badge-role_contributor.png" width="105px" alt="Role Contributor" />
 <img src="./New folder/gssoc-badge-bounty_master.png" width="105px" alt="Bounty Master" />
