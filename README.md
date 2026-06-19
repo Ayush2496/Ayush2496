@@ -6,8 +6,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=900&color=00D4FF&center=true&vCenter=true&width=600&lines=Building+real-world+projects;Exploring+AI+%26+Machine+Learning;Contributing+to+Open+Source;Turning+ideas+into+code+)](https://git.io/typing-svg)
 
-<br>
-<img src="https://komarev.com/ghpvc/?username=Ayush2496&label=PROFILE+VIEWS&style=for-the-badge&color=007ec6" alt="Profile Views" />
 
 </div>
 
